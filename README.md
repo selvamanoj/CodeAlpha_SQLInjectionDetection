@@ -1,4 +1,4 @@
-# CodeAlpha Task 2 — SQL Injection Detection System
+ CodeAlpha Task 2 
 
 # SQL Injection Detection System
 
